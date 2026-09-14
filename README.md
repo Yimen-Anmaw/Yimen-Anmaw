@@ -64,8 +64,8 @@ I actively leverage modern AI assistants and cloud technologies to boost my deve
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yimencodehub&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yimencodehub&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yimen-Anmaw&show_icons=true&theme=dracula&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yimen-Anmaw&layout=compact&theme=dracula" height="160" alt="languages graph" />
 </p>
 
 <br>
