@@ -60,6 +60,14 @@ I actively leverage modern AI assistants and cloud technologies to boost my deve
   <img src="https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="Antigravity" />
 </p>
 <br>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yimencodehub&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yimencodehub&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</p>
+
+<br>
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -72,13 +80,6 @@ I actively leverage modern AI assistants and cloud technologies to boost my deve
 </div>
 <br>
 
-<h2>🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yimen-Anmaw/Yimen-Anmaw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <br>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
-</div>
